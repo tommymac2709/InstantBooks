@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.1.0</version>
-    <url>https://github.com/tommymac2709/InstantBooks/releases/download/v1.0.1/InstantBooks-Setup-v1.0.1.0.exe</url>
+    <version>1.0.2</version>
+    <url>https://github.com/tommymac2709/InstantBooks/releases/download/v1.0.1/InstantBooks-Setup-v1.0.2.exe</url>
     <changelog>https://github.com/tommymac2709/InstantBooks/releases</changelog>
     <mandatory>false</mandatory>
     <checksum algorithm="SHA256">OPTIONAL_CHECKSUM_HERE</checksum>
